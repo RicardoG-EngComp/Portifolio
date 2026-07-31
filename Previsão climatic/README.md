@@ -35,12 +35,15 @@ This project is an **ETL (Extract, Transform, Load)** pipeline built in Python t
 2. Activate a virtual environment (optional but recommended):
    ```bash
    python -m venv .venv
-1.
+1.   ```bash
+
     pip install requests pandas
 
 
-2.
+2.   ```bash
+
     python extracao.py
 
-3.
+3.   ```bash
+
     Check the root folder for the generated alertas_entregadores.csv file!
